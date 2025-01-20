@@ -1,0 +1,11 @@
+H1 {
+    color: red;
+}
+
+button {
+    color: rgb(159, 18, 18);
+    background-color: rgb(95, 93, 93);
+    border-radius: 40%;
+    padding: 7px;
+    margin: 5px;
+}
